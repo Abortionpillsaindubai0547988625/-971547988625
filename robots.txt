@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://abortionpillsaindubai0547988625.github.io/-971547988625/sitemap.xml
